@@ -1,10 +1,10 @@
 ## I'm Jay Rainey 👋
 
-HCI Researcher and Software Engineer interested in creating social impact through technology. Currently a postdoctoral researcher on [@ideafast](https://github.com/ideafast) supporting the selection and evaluation of multiple sensing devices in large-scale studies. I design and develop digital prototypes to explore new interaction designs, ranging from mobile applications in modern web frameworks and micro-services in Python.
+I build software at the intersection of software engineering and machine learning at Samsung AI Center (SAIC), Cambridge. Previously a postdoc on [@ideafast](https://github.com/ideafast) supporting the selection and evaluation of multiple sensing devices in large-scale studies through building [data pipelines](https://github.com/ideafast/middleware-services).
 
-- 🐍 I enjoy writing Python and APIs with [FastAPI](https://github.com/tiangolo/fastapi)
-- 📚 Developed [@Gabber](https://gabber.audio) through my [PhD research](https://jawr.me)
-- 👐 Want to chat? [Email](mailto:g+@jawrainey.me?subject=Oh%20Hai) or chat via [LinkedIn](https://www.linkedin.com/in/jawrainey/).
+- 🐍 Using Python daily to develop EDAs, APIs, and other acronyms
+- 📚 Developed [Gabber](https://openlab.ncl.ac.uk/research/gabber-capturing-and-making-sense-of-audio-capture-for-non-experts/) through my [PhD research](https://jawr.me)
+- 👐 Want to chat? Let's connect on [LinkedIn](https://www.linkedin.com/in/jawrainey/)
 
 ### Current Stack
 
