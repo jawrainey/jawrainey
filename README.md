@@ -1,1 +1,1 @@
-Gen-AI research engineer (LLMs). Minimalist.
+GenAI research engineer (LLMs). Minimalist.
